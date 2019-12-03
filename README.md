@@ -6,3 +6,4 @@ Basics programs of all data structures and projects using those data structures
   
 2) Double Linked list (DLL)
 3) Stack Implementation using Linked List
+4) Queue Implementation using Linked List
