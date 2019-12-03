@@ -37,7 +37,7 @@ class stack_LIFO
 			temp=top;
 			while(temp!=NULL)
 			{
-				cout<<temp->data<<"\t";
+				cout<<temp->data<<"\n";
 				temp=temp->next;
 			}
 		}
